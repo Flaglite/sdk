@@ -1,6 +1,6 @@
 {
   "name": "@flaglite/sdk",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Tiny Feature-Flag fetcher for FlagLite",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
