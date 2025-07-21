@@ -2,6 +2,11 @@
   "name": "@flaglite/sdk",
   "version": "0.1.6",
   "description": "Tiny Feature-Flag fetcher for FlagLite",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flaglite/sdk.git"
+  },
+  "homepage": "https://flaglite.co",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "exports": {
